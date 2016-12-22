@@ -21,6 +21,11 @@ For More Updates:
 	Supported Header: TCP/IP, IPv4 ,UDP, ICMP
 	Fast Header Extraction
 
+Usage:
+	python pypacket.py (run as administrative privilage)
+
+
+
 For More Informations About The Tool.. Read README Txt file
 
 Please Feel Free For Contribution.
