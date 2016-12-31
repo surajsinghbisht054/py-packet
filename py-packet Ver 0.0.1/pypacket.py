@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 import socket,struct,binascii,os
 import pye
 
