@@ -1,19 +1,22 @@
 # Python Script For Packet Sniffing (pypacket)
-For More Updates:
-	please Visit My Blog: https://hackworldwithssb.blogspot.in
+
+# This Script Is Created For http://bitforestinfo.blogspot.in
+# This Script is Written By
+__author__='''
 
 ######################################################
-				By S.S.B Group							
+                By S.S.B Group                          
 ######################################################
 
-	Suraj Singh
-	Admin
-	S.S.B Group
-	surajsinghbisht054@gmail.com
-	https://hackworldwithssb.blogspot.in
+    Suraj Singh
+    Admin
+    S.S.B Group
+    surajsinghbisht054@gmail.com
+    http://bitforestinfo.blogspot.in/
 
-	Note: We Feel Proud To Be Indian
+    Note: We Feel Proud To Be Indian
 ######################################################
+'''
 
 # Features
 	No External Dependencies
