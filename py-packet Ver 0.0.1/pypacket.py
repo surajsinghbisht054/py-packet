@@ -2,7 +2,7 @@
 
 # ---------------- READ ME ---------------------------------------------
 # This Script is Created Only For Practise And Educational Purpose Only
-# This Script Is Created For http://bitforestinfo.blogspot.in
+# This Script Is Created For http://bitforestinfo.blogspot.com
 # This Script is Written By
 __author__='''
 
