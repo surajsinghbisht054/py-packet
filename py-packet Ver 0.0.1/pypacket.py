@@ -4,6 +4,14 @@
 # This Script is Created Only For Practise And Educational Purpose Only
 # This Script Is Created For http://bitforestinfo.blogspot.com
 # This Script is Written By
+#
+#
+##################################################
+######## Please Don't Remove Author Name #########
+############### Thanks ###########################
+##################################################
+#
+#
 __author__='''
 
 ######################################################
