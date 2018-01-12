@@ -1,7 +1,7 @@
 # Python Script For Packet Sniffing (pypacket)
 
-# This Script Is Created For http://bitforestinfo.blogspot.in
-# This Script is Written By
+### This Script Is Created For http://bitforestinfo.blogspot.in
+### This Script is Written By
 __author__='''
 
 ######################################################
